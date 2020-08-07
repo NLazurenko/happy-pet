@@ -1,0 +1,57 @@
+html {
+  box-sizing: border-box;
+  height: 100%;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+  line-height: 0px;
+}
+
+ul,
+li,
+body {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body {
+  font-family: Montserrat, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.container {
+  max-width: 1250px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.back-line{
+  background-color: #fff;
+  min-width: 100%;
+  min-height: 75px;
+  z-index: 100;
+}

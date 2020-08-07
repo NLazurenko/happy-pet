@@ -1,0 +1,16 @@
+.button-ping {
+  padding: 23px 42px;
+  color: #fff;
+  background: linear-gradient(102.4deg, #F52557 36.84%, #ED1C4E 74.32%);
+  box-shadow: 0 7px 35px rgba(242, 34, 84, 0.42);
+  border-radius: 110px;
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 21px;
+  cursor: pointer;
+  transition: box-shadow .3s;
+
+  &:hover {
+	box-shadow: none;
+  }
+}
