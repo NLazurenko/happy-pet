@@ -189,8 +189,8 @@ body {
 .header {
   position: relative;
   padding: 50px 0 320px 0;
-  background: url(../../images/header/animals.png) 100% 100% no-repeat, -o-linear-gradient(325.87deg, #F4CB38 10.97%, #F4A938 77.98%);
-  background: url(../../images/header/animals.png) 100% 100% no-repeat, linear-gradient(124.13deg, #F4CB38 10.97%, #F4A938 77.98%);
+  background: url(.././images/header/animals.png) 100% 100% no-repeat, -o-linear-gradient(325.87deg, #F4CB38 10.97%, #F4A938 77.98%);
+  background: url(.././images/header/animals.png) 100% 100% no-repeat, linear-gradient(124.13deg, #F4CB38 10.97%, #F4A938 77.98%);
 }
 
 .header .container {
@@ -241,7 +241,7 @@ body {
   -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  background-image: url(../../images/icons/supermarket.svg);
+  background-image: url(.././images/icons/supermarket.svg);
   content: "";
   background-repeat: no-repeat;
 }

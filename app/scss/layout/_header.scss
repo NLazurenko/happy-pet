@@ -1,7 +1,7 @@
 .header {
   position: relative;
   padding: 50px 0 320px 0;
-  background: url(../../images/header/animals.png) 100% 100% no-repeat,
+  background: url(.././images/header/animals.png) 100% 100% no-repeat,
   linear-gradient(124.13deg, #F4CB38 10.97%, #F4A938 77.98%);
 
   .container {
@@ -35,7 +35,7 @@
 		  top: 52%;
 		  left: 49%;
 		  transform: translate(-50%, -50%);
-		  background-image: url(../../images/icons/supermarket.svg);
+		  background-image: url(.././images/icons/supermarket.svg);
 		  content: "";
 		  background-repeat: no-repeat;
 		}
